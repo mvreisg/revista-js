@@ -1,0 +1,21 @@
+{
+    "revistas": {
+        "data": [
+            {
+                "id": "123",
+                "titulo": "Batata",
+                "ano": "2000"
+            },
+            {
+                "id": "124",
+                "titulo": "Serjão",
+                "ano": "2001"
+            },
+            {
+                "id": "125",
+                "titulo": "Berranteiro",
+                "ano": "2002"
+            }
+        ]
+    }
+}
